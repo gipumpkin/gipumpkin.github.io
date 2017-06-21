@@ -1,15 +1,19 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
+favorite-animal: elephant
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# {{ page.title }}
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+The home page was created by using a custom layout.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In this case, I'm using the default layout. It's the very simplest page at this point.
+
+## Features of jekyll
+Here, I'm taking information from the front matter.
+
+Page front matter: {{ page.favorite-animal }}
+
+Sitewide config: {{ site.birthday }}

@@ -8,7 +8,7 @@ permalink: /steps/
 
 Assumes that you can find command line and that you have [atom](https://atom.io/) or another text editor that shows directory trees and makes things in nice colors.
 
-This is not a tutorial for "easiest way to get Jekyll up and running." Instead, it's about getting to know how jekyll works.
+This is not a tutorial for "easiest way to get Jekyll up and running." Instead, it's about getting to know how jekyll works. Also, this site is not meant as a standalone tutorial. It assumes that I (Laurie) am interjecting to explain things, and guide people. There are great tutorials for standalone learning! This is not one of them.
 
 ### Installing jekyll
 
@@ -34,5 +34,12 @@ Now, into how and why it works. Also, what is [markdown](https://github.com/adam
 
 ### Digging a little deeper
 
-This jekyll site is built using a tem. At the [Jekyll Theme Page](https://jekyllrb.com/docs/themes/) you can see how they're hiding some of the directories from immediate view.
-1. Show my repo that has all of the theme folders copied from where my computer stored the gem for minima, change some things, and show "jekyll build" with changes to site files.
+This jekyll site is built using a theme. At the [Jekyll Theme Page](https://jekyllrb.com/docs/themes/) you can see how they're hiding some of the directories from immediate view.
+1. Show my repo that has all of the parts of jekyll stored in the same place.
+1. download that repo to your computer, save it somewhere reasonable (the desktop will probably work for this workshop), navigate into it, and jekyll build.
+1. Take a look around the directories.
+1. Explore the files, and see where they point. (It's easiest if you save the blog for last).
+
+### Working with data
+1. Take a look at the mlab-data page.
+1. Try to create a page for the END data I've added to the END folder. 
