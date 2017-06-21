@@ -20,6 +20,8 @@ This is not a tutorial for "easiest way to get Jekyll up and running." Instead, 
 Pause here to make sure everything works. Troubleshoot.
 Now, into how and why it works. Also, what is [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+Escape route: If you're feeling frustrated with the installation instructions, set yourself up with a github account and follow the directions for [jekyll-now](https://github.com/dsfellows/jekyll-now)
+
 ### Looking around jekyll
 
 1. On your page, navigate to the about page.
