@@ -1,6 +1,24 @@
 This repo is for use as part of a jekyll tutorial for the Penn Digital Scholarship Fellows (and our friENDs). 
 ## Notes for teaching jekyll.
 
+## Install Jekyll
+Gem install jekyll (find troubleshooting)
+
+## Install Git
+
+## Git clone this repo
+
+## Jekyll serve 
+
+
+
+
+
+
+
+
+
+
 Because this is for students part-way through their fellowship, it assumes that you can find command line and that you have [atom](https://atom.io/) or another text editor that shows directory trees and makes things in nice colors.
 
 This is not a tutorial for "easiest way to get Jekyll up and running." Instead, it's a repository to be used along with an in person workshop about getting to know how jekyll works. Also, this site is not meant as a standalone tutorial. It assumes that I (Laurie) am interjecting to explain things, and guide people. I should, and might, also turn it into a standalone tutorial, but at the moment it's not one. There are great tutorials for standalone learning! I will add links to some of them. 
