@@ -19,7 +19,7 @@ Learn about includes and templates.
 Learn about site and page variables. 
 
 
-**Day Two: **
+**Day Two:**
 review includes, variables, front matter, etc
 Install jekyll locally.
 
