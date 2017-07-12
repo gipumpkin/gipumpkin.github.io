@@ -4,19 +4,30 @@ title: Steps and notes
 permalink: /steps/
 ---
 
-## Notes for teaching jekyll.
+### Clone this repository
+1. Insert screenshot of forking repository
+2. change name so that it works on github.io.
 
-Assumes that you can find command line and that you have [atom](https://atom.io/) or another text editor that shows directory trees and makes things in nice colors.
 
-This is not a tutorial for "easiest way to get Jekyll up and running." Instead, it's about getting to know how jekyll works. Also, this site is not meant as a standalone tutorial. It assumes that I (Laurie) am interjecting to explain things, and guide people. There are great tutorials for standalone learning! This is not one of them.
+**Day One:**
+On a page.
+ - Change content using markdown.
+ - Insert images. 
+ - Insert links.
 
-### Installing jekyll
+Learn about includes and templates.
+Learn about site and page variables. 
 
-#### For macs
 
-1. Open Terminal
-1. Try installing basic jekyll site using the commands at [jekyllrb.com](https://jekyllrb.com/).
-1. Open a new project in Atom and import your new directory.
+**Day Two: **
+review includes, variables, front matter, etc
+Install jekyll locally.
+
+Learn about data. 
+
+
+
+
 
 #### For Windows
 1. Closely follow all of the instructions on [installing jekyll on windows](https://jekyllrb.com/docs/windows/) based on which Windows Operating system you use.
