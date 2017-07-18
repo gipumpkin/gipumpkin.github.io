@@ -1,8 +1,9 @@
 ---
 layout: default
-title: About
+title: Bats
 permalink: /about/
 favorite-animal: elephant
+pajamas: footies
 ---
 
 # {{ page.title }}
@@ -16,4 +17,6 @@ Here, I'm taking information from the front matter.
 
 Page front matter: {{ page.favorite-animal }}
 
-Sitewide config: {{ site.birthday }}
+Sitewide config - (this is stored in the config file.): {{ site.birthday }}
+
+I like pajamas that are {{ page.pajamas }}

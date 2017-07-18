@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Very Simple Jekyll Example
-email: your-email@domain.com
+title: Learning Jekyll
+email: laallen@upenn.edu
 description: > # this means to ignore newlines until "baseurl:"
   This site is used by Laurie Allen to demonstrate the basic functioning of jekyll.
   It won't nicely change with new themes, but it's an easy way to see all of the jekyll directories.
